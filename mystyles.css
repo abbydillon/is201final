@@ -1,0 +1,22 @@
+.mb-2{
+    width: 500px
+}
+
+h2{
+    font-size: 40px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.darkcolor{
+    background-color: rgb(7, 4, 84) !important;
+}
+
+.footer{
+    position: fixed;
+    background-color: rgb(66, 66, 210) !important;
+    border-top: 1px white solid;
+    bottom: 0px;
+    width: 100%;
+    text-align: center  !important;
+    font-style: italic;
+}
