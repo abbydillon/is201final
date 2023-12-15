@@ -51,5 +51,6 @@ img{
 header{
     position: absolute;
     top: 0px;
-    
+    text-align: center  !important;
+    font-style: italic;
 }
